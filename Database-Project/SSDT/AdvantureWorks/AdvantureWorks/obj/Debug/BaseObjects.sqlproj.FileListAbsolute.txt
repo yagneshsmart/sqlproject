@@ -8,3 +8,13 @@ C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\postdeploy.sql
 C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\predeploy.sql
 C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\AdvantureWorks.dll
 C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\AdvantureWorks.pdb
+C:\sqlproject\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\bin\Debug\BaseObjects.dacpac
+C:\sqlproject\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\bin\Debug\AdvantureWorks.dll
+C:\sqlproject\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\bin\Debug\AdvantureWorks.pdb
+C:\sqlproject\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\BaseObjects.sqlproj.AssemblyReference.cache
+C:\sqlproject\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\Model.xml
+C:\sqlproject\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\refactor.xml
+C:\sqlproject\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\postdeploy.sql
+C:\sqlproject\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\predeploy.sql
+C:\sqlproject\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\AdvantureWorks.dll
+C:\sqlproject\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\AdvantureWorks.pdb

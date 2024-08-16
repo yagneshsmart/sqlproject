@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="AdvantureWorks.dll" />
-			<Metadata Name="FileName" Value="C:\DATABASE-PROJECT\SSDT\ADVANTUREWORKS\ADVANTUREWORKS\OBJ\DEBUG\ADVANTUREWORKS.DLL" />
+			<Metadata Name="FileName" Value="C:\SQLPROJECT\DATABASE-PROJECT\SSDT\ADVANTUREWORKS\ADVANTUREWORKS\OBJ\DEBUG\ADVANTUREWORKS.DLL" />
 			<Metadata Name="AssemblyName" Value="AdvantureWorks" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\AdvantureWorks.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\sqlproject\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\AdvantureWorks.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
@@ -611,6 +611,47 @@
 				</Entry>
 			</Relationship>
 			<AttachedAnnotation Disambiguator="8" />
+		</Element>
+		<Element Type="SqlTable" Name="[dbo].[test]">
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="Columns">
+				<Entry>
+					<Element Type="SqlSimpleColumn" Name="[dbo].[test].[sno]">
+						<Relationship Name="TypeSpecifier">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[int]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
+				<Entry>
+					<Element Type="SqlSimpleColumn" Name="[dbo].[test].[sname]">
+						<Relationship Name="TypeSpecifier">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Property Name="Length" Value="50" />
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[varchar]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
 		</Element>
 		<Element Type="SqlScalarFunction" Name="[dbo].[ufnGetAccountingEndDate]">
 			<Property Name="IsAnsiNullsOn" Value="True" />
