@@ -1,0 +1,10 @@
+C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\bin\Debug\BaseObjects.dacpac
+C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\bin\Debug\AdvantureWorks.dll
+C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\bin\Debug\AdvantureWorks.pdb
+C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\BaseObjects.sqlproj.AssemblyReference.cache
+C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\Model.xml
+C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\refactor.xml
+C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\postdeploy.sql
+C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\predeploy.sql
+C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\AdvantureWorks.dll
+C:\Database-Project\SSDT\AdvantureWorks\AdvantureWorks\obj\Debug\AdvantureWorks.pdb
